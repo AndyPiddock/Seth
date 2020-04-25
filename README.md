@@ -1,9 +1,8 @@
 # Seth
+## Script Editor Themer (Seth) is  a helper plugin to extend the LiveCode IDE, it allows the creation of custom color themes for the LiveCode script editor.
 
 ![SETH](http://2108.co.uk/seth/seth-preview.png)
 
-Script Editor Themer for the LiveCode development environment.
 
-This repository is being used to provide Issue tracking for the Seth project.
 
 Project home https://2108.co.uk/
