@@ -1,0 +1,26 @@
+3.2
+completed
+
+Feature Request/Bug fix: 
+After a restart the minimzed icon has lost its previous location.
+Option to shutdown from the minimized state which means that Set will save two positions for startup.
+One for minimized and one for full.
+
+
+Feature Request: 
+Feature Request: 
+
+Bug Fix: Edit button should respect selected element. if an element is selected prior to the editor being opened, the selected element is retained.
+
+Bug Fix: Right click on minimized icon also drags icon. Seemes to be a Mac only problem.
+
+
+macMikey 
+matthiasrebbe 
+
+
+Todo
+
+Add the ability to rename themes
+theme exchange
+
