@@ -3,8 +3,6 @@
 
 ## April 2020 - Seth is now free under a MIT License
 
-![SETH](http://2108.co.uk/seth/seth-preview.png)
 
 
 
-Project home https://2108.co.uk/
